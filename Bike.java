@@ -23,8 +23,8 @@ public class Bike
         this.manufacturer = manufacturer;
         this.year = year;
     }
+    //The 3 variables we will use for this class
 
-  
     public int getNumOfWheels()
     {
         return numOfWheels;
@@ -50,10 +50,11 @@ public class Bike
     {
         this.year = year;
     }
-    
+    // Getters and Setters for each variable 
     
     public String toString()
     {
         return "Number of wheels: " + numOfWheels + "Manufacturer: " + manufacturer + "Year: " + year;
     }
+    //toString override
 }
