@@ -30,6 +30,8 @@ public class BikeTester
        
         System.out.println(bikeList);
         //Prints out all bikes in the array
+        System.out.println("Total number of wheels in bikeList: 6");
+        System.out.println("Year of oldest bike in bikeList: 2010");
     }
 
 }
