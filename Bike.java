@@ -54,6 +54,6 @@ public class Bike
     
     public String toString()
     {
-        return "Number of wheels: " + numOfWheels + "manufacturer: " + manufacturer + "year: " + year;
+        return "Number of wheels: " + numOfWheels + "Manufacturer: " + manufacturer + "Year: " + year;
     }
 }
