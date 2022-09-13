@@ -1,3 +1,10 @@
+/** Class: Person.java
+* Author: Adrian Moreno
+* Course: ITEC 2150
+* 9/13/2022
+* This class – Contains details about a person such as Name, Age, and Eyecolor. Also contains a method that prints out a greeting message.
+*/
+
 public class Person 
 {
     
