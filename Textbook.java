@@ -1,3 +1,10 @@
+/** Class: Textbook.java
+* Author: Adrian Moreno
+* Course: ITEC 2150
+* 9/13/2022
+* This class – Contains details about textbooks such as subject, how many pages it has, and the price. Also contains a method that prints out all informations about the textbook.
+*/
+
 public class Textbook 
 {
     private String subject;
